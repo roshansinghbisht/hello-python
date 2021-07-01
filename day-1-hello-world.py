@@ -18,7 +18,7 @@ print("This is Roshan")
 # told python to include a space between 'Hello' and 'World!'
 # end='\n' => this tells python what to do after the print statement is
 # executed. The '\n' is the newline character which inserts a new line
-# in the program. This is why in the output, we see 'This is Roshan'
+# in the program. That's why in the output we see 'This is Roshan'
 # getting printed in the next line.
 # Similarly file=sys.stdout and flush=False) too have the default
 # argument values.
