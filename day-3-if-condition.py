@@ -17,7 +17,15 @@ if __name__ == '__main__':
     else:
         print('Not Weird')
        
-
+    
+# input(): Read a string from standard input.  The trailing newline is 
+# stripped. If you include the optional <prompt> argument, input() 
+# displays it as a prompt to the user before pausing to read input.
+# >>> name = input('What is your name? ')
+# input() always returns a string. If you want a numeric type, then 
+# you need to convert the string to the appropriate type with the int()
+# as we did in above code.
+    
 # Frequently, a program needs to skip over some statements, execute a 
 # series of statements repetitively, or choose between alternate sets
 # of statements to execute.
