@@ -6,5 +6,6 @@ print("Float division =", a/b)
 
 # Integer division or Floor division : The // operator first divides
 # the number on the left by the number on the right and then rounds down
-# to an integer.
+# to an integer. The round-off is done by truncating/ignoring the value
+# after the decimal point.
 # Float division: division with the / operator always returns a float.
