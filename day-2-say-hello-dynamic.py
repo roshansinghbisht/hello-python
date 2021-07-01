@@ -1,3 +1,6 @@
+# TASK: Create a function who takes a name as a parameter, and
+# says hello to the given user
+
 # A function in Python is used to bundle a set of instructions that
 # you want to use repeatedly, and called when needed.
 # In Python, 'def' introduces a function definition. It must be followed
