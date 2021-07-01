@@ -6,7 +6,7 @@ print("This is Roshan")
 # This is Roshan
 
 # Lets see the signature of our print().
-# print(*objects, sep= ' ', end='\n', file=sys.stdout, flush=False)")
+# print(*objects, sep= ' ', end='\n', file=sys.stdout, flush=False)
 # We see many other parameters here, but we passed only one in above
 # code: *objects = "Hello", "World".
 
