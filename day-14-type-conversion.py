@@ -7,7 +7,8 @@ fri_sales = "95"
 #TODO: Print a string with this format: This week's total sales: xxx
 # You will probably need to write some lines of code before the print statement.
 
-total= int(mon_sales)+int(tues_sales)+int(wed_sales)+int(thurs_sales)+int(fri_sales)
+total= int(mon_sales)+int(tues_sales)+int(wed_sales)+int(thurs_sales)\
+       +int(fri_sales)
 total=str(total)
 print("This week's total sales: "+total)
 
